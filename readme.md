@@ -1,7 +1,7 @@
 ## Install
 
 ```
-$ npm install --save-dev @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-prettier eslint-config-xo eslint-config-xo-react eslint-config-xo-space eslint-config-xo-typescript eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks
+$ npm install --save-dev @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-prettier eslint-config-xo eslint-config-xo-react eslint-config-xo-space eslint-config-xo-typescript eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-config-promer94
 ```
 
 ## Standalone Usage
